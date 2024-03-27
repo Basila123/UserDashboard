@@ -1,0 +1,60 @@
+{
+    "user": [
+      {
+        "id": "1",
+        "name": "NT Infotech ",
+        "email": "n@in.com",
+        "username": "sdsad",
+        "role": "user"
+      },
+      {
+        "id": "2",
+        "name": "ABC Ltd",
+        "email": "abc@in.com1",
+        "username": "afsadf",
+        "role": "user"
+      },
+      {
+        "id": "3",
+        "name": "Dr.TNR Infotech",
+        "email": "tnr@gmail.com",
+        "username": "8989898989",
+        "role": "user"
+      },
+      {
+        "id": "4",
+        "name": "Nihira Techiees",
+        "email": "nihiratechiees@gmail.com",
+        "username": "dgsahgf",
+        "role": "user"
+      },
+      {
+        "id": "5",
+        "name": "NT Techiees",
+        "email": "nihiratechiees@gmail.com",
+        "username": "sadas",
+        "role": "user"
+      },
+      {
+        "id": "6",
+        "name": "NT Technologies",
+        "email": "nihiratechiees@gmail.com",
+        "username": "sfsdaf",
+        "role": "user"
+      },
+      {
+        "id": "0",
+        "name": "fgg",
+        "username": "sss",
+        "email": "bas@gmail.com",
+        "role": "User"
+      },
+      {
+        "id": 0,
+        "name": "sdsdsds",
+        "username": "fsfsfs",
+        "email": "basila@gmail.com",
+        "role": "User"
+      }
+    ]
+  }

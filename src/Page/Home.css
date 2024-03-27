@@ -1,0 +1,16 @@
+.parentdiv{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MuiButtonBase-root .MuiButton-root .MuiButton-contained .MuiButton-containedPrimary .MuiButton-sizeMedium 
+.MuiButton-containedSizeMedium .MuiButton-root .MuiButton-contained .MuiButton-containedPrimary .MuiButton-sizeMedium 
+.MuiButton-containedSizeMedium .css-12hjlg5-MuiButtonBase-root-MuiButton-root
+{
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
